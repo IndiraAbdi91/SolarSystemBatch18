@@ -14,10 +14,17 @@ public class SolarSystem {
 
 
 
+
         Planet1 frog=new Planet1();
         frog.color="blue";
         frog.temp="12345678";
         frog.size="2km";
+
+        planet2 gecko=new planet2();
+        gecko.color="magenta";
+        gecko.temp="12345678";
+        gecko.size="12345678m"; 
+
         
 
     }
